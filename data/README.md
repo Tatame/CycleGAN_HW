@@ -9,13 +9,22 @@
    <p align="center">
        <img width="200px" src="color.png" alt="qr"/>
    </p>
-   ![color](https://github.com/Tatame/CycleGAN_HW/blob/main/data/color.png)
-   ![retro](https://github.com/Tatame/CycleGAN_HW/blob/main/data/retro.png)
+   <p align="center">
+       <img width="200px" src="retro.png" alt="qr"/>
+   </p>
 2. ```diamonds_bw``` — состоит из черно-белых фотографий $646 \times 646$ и их чб версий-мозаик. Из-за предыдущего пункта было принято решение взять чб варианты фото и мозаик, так как так лучше сохраняется соотнощение яркости.
-   ![bw](https://github.com/Tatame/CycleGAN_HW/blob/main/data/bw.png)
-   ![bw_d](https://github.com/Tatame/CycleGAN_HW/blob/main/data/bw_d.png)
+   <p align="center">
+       <img width="200px" src="bw.png" alt="qr"/>
+   </p>
+   <p align="center">
+       <img width="200px" src="bw_d.png" alt="qr"/>
+   </p>
 3. ```diamonds_bw_256``` — состоит из таких же изображений, что и предыдущий, но они обрезаны под размер $256 \times 256$. Взято из предположения, что так модели будет легче различить паттерны, когда они более выражены.
-   ![bw_256](https://github.com/Tatame/CycleGAN_HW/blob/main/data/bw_256.png)
-   ![bw_d_256](https://github.com/Tatame/CycleGAN_HW/blob/main/data/bw_d_256.png)
+   <p align="center">
+       <img width="200px" src="bw_256.png" alt="qr"/>
+   </p>
+   <p align="center">
+       <img width="200px" src="bw_d_256.png" alt="qr"/>
+   </p>
 
 P.S. все данные собирались вручную с помощью беспощадного закликивания *qbrix* (очевидно, бесплатных его возможностей)...
